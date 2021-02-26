@@ -1,0 +1,12 @@
+{
+  "name": "laughing-octo-chainsaw",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:dariothornhill/laughing-octo-chainsaw.git",
+  "author": "Dario Thornhill <dario.thornhill@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
